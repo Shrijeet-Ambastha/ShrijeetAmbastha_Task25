@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ShrijeetAmbastha_Task26/'
+  base: '/ShrijeetAmbastha_Task25/'
 })
